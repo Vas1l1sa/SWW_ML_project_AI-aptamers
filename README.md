@@ -14,8 +14,6 @@
 **Инструменты:** Python - библиотеки pandas, sklearn, numpy, matplotlib.pyplot, joblib, seaborn
 
 
-предсказываем константу связывания аптамеров с молекулами
-
 
 **Структура проекта:**
 
