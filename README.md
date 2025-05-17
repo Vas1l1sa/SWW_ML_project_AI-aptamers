@@ -30,3 +30,5 @@
 
 
 **Результаты:**
+
+Создана модель aptamer_antibiotics_binding_prediction_model (lightgbm) с accuracy 86%. Она доступна для скачивания по ссылке: https://drive.google.com/file/d/1taVEzHAaoxVxS5faFkR-70o4B3Yt-MnA/view?usp=drive_link
